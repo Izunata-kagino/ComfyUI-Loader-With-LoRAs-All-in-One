@@ -5,8 +5,8 @@ version = "1.0.0"
 license = {file = "LICENSE"}
 
 [project.urls]
-Repository = "https://github.com/yourusername/ComfyUI-Checkpoint-Loader-With-LoRAs"
+Repository = "https://github.com/Izunata-kagino/ComfyUI-Checkpoint-Loader-With-LoRAs"
 
 [tool.comfy]
-PublisherId = "yourusername"
+PublisherId = "Izunata-kagino"
 DisplayName = "ComfyUI Checkpoint Loader With LoRAs"
