@@ -8,5 +8,5 @@ license = {file = "LICENSE"}
 Repository = "https://github.com/Izunata-kagino/ComfyUI-Checkpoint-Loader-With-LoRAs"
 
 [tool.comfy]
-PublisherId = "Izunata-kagino"
-DisplayName = "ComfyUI Checkpoint Loader With LoRAs"
+PublisherId = "supersheep"
+DisplayName = "Super Sheep"
