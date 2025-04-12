@@ -1,0 +1,12 @@
+[project]
+name = "comfyui-checkpoint-loader-with-loras"
+description = "A ComfyUI custom node that loads checkpoints and allows applying up to three LoRAs with adjustable strengths."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/yourusername/ComfyUI-Checkpoint-Loader-With-LoRAs"
+
+[tool.comfy]
+PublisherId = "yourusername"
+DisplayName = "ComfyUI Checkpoint Loader With LoRAs"
